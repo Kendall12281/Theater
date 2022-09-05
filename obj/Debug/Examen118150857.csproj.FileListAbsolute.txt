@@ -1,0 +1,31 @@
+C:\Users\Kendall\Desktop\Examen\Teatro\bin\Debug\Teatros.exe.config
+C:\Users\Kendall\Desktop\Examen\Teatro\bin\Debug\Teatros.exe
+C:\Users\Kendall\Desktop\Examen\Teatro\bin\Debug\Teatros.pdb
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Examen118150857.csproj.AssemblyReference.cache
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatros.frmPrincipal.resources
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatros.Properties.Resources.resources
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Examen118150857.csproj.GenerateResource.cache
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Examen118150857.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatros.exe
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatros.pdb
+C:\Users\Kendall\Downloads\Examen 1\Teatro\bin\Debug\Teatros.exe.config
+C:\Users\Kendall\Downloads\Examen 1\Teatro\bin\Debug\Teatros.exe
+C:\Users\Kendall\Downloads\Examen 1\Teatro\bin\Debug\Teatros.pdb
+C:\Users\Kendall\Downloads\Examen 1\Teatro\obj\Debug\Examen118150857.csproj.AssemblyReference.cache
+C:\Users\Kendall\Downloads\Examen 1\Teatro\obj\Debug\Teatros.frmPrincipal.resources
+C:\Users\Kendall\Downloads\Examen 1\Teatro\obj\Debug\Teatros.Properties.Resources.resources
+C:\Users\Kendall\Downloads\Examen 1\Teatro\obj\Debug\Examen118150857.csproj.GenerateResource.cache
+C:\Users\Kendall\Downloads\Examen 1\Teatro\obj\Debug\Examen118150857.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\Downloads\Examen 1\Teatro\obj\Debug\Teatros.exe
+C:\Users\Kendall\Downloads\Examen 1\Teatro\obj\Debug\Teatros.pdb
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\bin\Debug\Teatros.exe.config
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\bin\Debug\Teatros.exe
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\bin\Debug\Teatros.pdb
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\obj\Debug\Examen118150857.csproj.AssemblyReference.cache
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\obj\Debug\Examen118150857.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\obj\Debug\Teatros.frmPrincipal.resources
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\obj\Debug\Teatros.Properties.Resources.resources
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\obj\Debug\Examen118150857.csproj.GenerateResource.cache
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\obj\Debug\Examen118150857.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\obj\Debug\Teatros.exe
+C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\obj\Debug\Teatros.pdb

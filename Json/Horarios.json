@@ -1,0 +1,48 @@
+[
+  { 
+    "CodigoCartelera": "1986",
+    "TipoGraderia": "0",
+    "Descripcion": "03:00 PM General"
+  },
+  {
+    "CodigoCartelera": "1986",
+    "TipoGraderia": "1",
+    "Descripcion": "06:30 PM Platea"
+  },
+  {
+    "CodigoCartelera": "1986",
+    "TipoGraderia": "2",
+    "Descripcion": "10:00 PM Palco"
+  },
+  {
+    "CodigoCartelera": "1997",
+    "TipoGraderia": "0",
+    "Descripcion": "04:00 PM General"
+  },
+  {
+    "CodigoCartelera": "1997",
+    "TipoGraderia": "1",
+    "Descripcion": "07:00 PM Platea"
+  },
+  {
+    "CodigoCartelera": "1997",
+    "TipoGraderia": "2",
+    "Descripcion": "09:30 PM Palco"
+  },
+  {
+    "CodigoCartelera": "2008",
+    "TipoGraderia": "0",
+    "Descripcion": "05:30 PM General"
+  },
+  {
+    "CodigoCartelera": "2008",
+    "TipoGraderia": "1",
+    "Descripcion": "08:00 PM Platea"
+  },
+  {
+    "CodigoCartelera": "2008",
+    "TipoGraderia": "2",
+    "Descripcion": "10:30 PM Palco"
+  }
+
+]

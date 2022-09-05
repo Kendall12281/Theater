@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\Kendall\OneDrive - Universidad Técnica Nacional\Programación\Programacion #3\Primer Examen Programacion\Teatro\bin\Debug\Xslt\Recibo.xslt"?>
+<Recibo>
+  <Consecutivo>637975408485074254</Consecutivo>
+  <Teatro Nombre="Variedades">
+    <Cartelera Codigo="2008">MammaMia</Cartelera>
+    <Horario Graderia="2008">10:00 PM Palco</Horario>
+  </Teatro>
+  <Descuento>Descuento3x2</Descuento>
+  <Tickets>
+    <Ticket Cantidad="1">Adulto</Ticket>
+    <Ticket Cantidad="0">Niño</Ticket>
+    <Ticket Cantidad="0">Adulto Mayor</Ticket>
+  </Tickets>
+  <Total Impuesto="8.5">760</Total>
+</Recibo>

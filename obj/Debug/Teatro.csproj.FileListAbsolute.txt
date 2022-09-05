@@ -1,0 +1,10 @@
+C:\Users\Kendall\Desktop\Examen\Teatro\bin\Debug\Teatros.exe.config
+C:\Users\Kendall\Desktop\Examen\Teatro\bin\Debug\Teatros.exe
+C:\Users\Kendall\Desktop\Examen\Teatro\bin\Debug\Teatros.pdb
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatro.csproj.AssemblyReference.cache
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatros.frmPrincipal.resources
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatros.Properties.Resources.resources
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatro.csproj.GenerateResource.cache
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatro.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatros.exe
+C:\Users\Kendall\Desktop\Examen\Teatro\obj\Debug\Teatros.pdb
